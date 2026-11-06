@@ -192,7 +192,7 @@ Use the button in the Quick Start section.
 
 ---
 
-*Valorant · Updated 2026-11-05 · Shared under the MIT License*
+*Valorant · Updated 2026-11-06 · Shared under the MIT License*
 
 
-Updated 2026-11-05.
+Updated 2026-11-06.
